@@ -17,6 +17,11 @@ namespace migrationsKursovaiya.Repositories
 
         }
 
+        public CountryRepository(MyDbContext _context)
+        {
+            context = _context;
+        }
+
         public void ShowAllCountry()
         {
             using var context = new MyDbContext();
