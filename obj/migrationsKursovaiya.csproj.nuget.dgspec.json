@@ -50,6 +50,18 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "DapperPlus": {
+              "target": "Package",
+              "version": "[1.1.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.2, )"
@@ -75,6 +87,14 @@
             "NUnit": {
               "target": "Package",
               "version": "[4.3.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[7.5.9, )"
             }
           },
           "imports": [

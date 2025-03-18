@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("migrationsKursovaiya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67def45cfb756837430db0e38e71bcb1401b03ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f133829a586dfc469cf6412b1215e61bcb90c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("migrationsKursovaiya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("migrationsKursovaiya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
